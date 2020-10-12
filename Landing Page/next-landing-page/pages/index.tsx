@@ -20,9 +20,9 @@ const Hero = () => (<div className="relative pt-16 pb-32 flex content-center ite
   style={{
     minHeight: "75vh"
   }}>
-  <div className="absolute top-0 w-full h-full bg-center bg-cover"
+  <div className="absolute top-2 w-full h-full bg-center bg-cover"
     style={{
-      backgroundImage: "url('../assets/img/fake.jpg')"
+      backgroundImage: "url('https://github.com/agusmar/landingfec/blob/master/Landing%20Page/next-landing-page/assets/img/fake.jpg?raw=true')"
     }}>
     <span id="blackOverlay" className="w-full h-full absolute opacity-75 bg-black"></span>
   </div>
@@ -34,7 +34,7 @@ const Hero = () => (<div className="relative pt-16 pb-32 flex content-center ite
             FrontEndCafé
               </h1>
           <p className="mt-4 text-lg text-gray-300">
-          Un espacio donde podés aprender y podés enseñar sobre tecnología</p>
+          Aprendé y charla sobre código, diseño y tecnología</p>
         </div>
       </div>
 
