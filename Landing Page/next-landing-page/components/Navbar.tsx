@@ -22,7 +22,6 @@ function Navbar(props: Props): ReactElement {
                 (props.transparent ? "text-white" : "text-gray-800") +
                 " title-lg font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase"
               }
-              href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
             >
               FrontEndCafe
             </a>
